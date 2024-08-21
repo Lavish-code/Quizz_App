@@ -64,7 +64,7 @@ This Quiz app is built from HTML, CSS and javascript.
 
 ## Usage
 
-Here is the link: Quizz-App-aman.vercel.app
+Here is the link:<a href="https://quizz-app-lavish.vercel.app/"> Quizz_App_lavish</a>
 
 ## Contributing
 
