@@ -7,7 +7,7 @@
   <h3 align="center">Quiz App</h3>
 
   <p align="center">
-    Challenge your mind, expand your knowledge - Quiz app, the ultimate learning experience!
+    Challenge your mind, expand your knowledge - Quiz app, the ultimate learning experiences!
     <br/>
     <br/>
     <a href="https://github.com/Lavish-code/Quizz-App"><strong>Explore the docs »</strong></a>
